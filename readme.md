@@ -292,6 +292,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Workday](https://www.workday.com) | [@workday](https://twitter.com/workday) | - | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business. |
+| [GroveHR](https://www.grovehr.com) | [@grove_hr](https://twitter.com/grove_hr) | $3/mo/employee | The All-In-One HR Platform. Recruitment. Onboaridng. Time. Payroll. Performance mgt. Employee Engagement. To work smarter and build an authetic culture. |
 | [Lever](https://www.lever.co) | [@lever](https://twitter.com/lever) | - | A modern web app for hiring. Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close. |
 | [Zenefits](https://www.zenefits.com) | [@zenefits](https://twitter.com/zenefits) | $8+/mo/employee | The #1 All-In-One HR Platform. Payroll. Benefits. Time. Compliance. All online, all in one place. |
 | [TestDome](https://www.testdome.com/) | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview. |
